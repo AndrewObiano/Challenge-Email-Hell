@@ -1,0 +1,20 @@
+{
+  "name": "Challenge-Email-Hell",
+  "version": "1.0.0",
+  "description": "We just found out that there is a bug in production that our e-mail function was iterating errantly and sending duplicate e-mails to many users. We need to fix this quickly but we don't want to send out a mass apology letter to all of our users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/Challenge-Email-Hell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleague/Challenge-Email-Hell/issues"
+  },
+  "homepage": "https://github.com/devleague/Challenge-Email-Hell#readme"
+}
