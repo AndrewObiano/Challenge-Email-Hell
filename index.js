@@ -1,7 +1,6 @@
 const emailLog = require("./email_log.json");
 
 function countUniqueEmails(emailFile) {
-  // do work here
   return emailFile.emails.reduce((obj, curr) => {
     // obj is "previous" element
     if (obj[curr.email]) {
